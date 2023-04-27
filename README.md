@@ -5,4 +5,4 @@
 - ⚡ Fun fact: I love creative projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerisN&hide=stars,prs,contribs&count_private=true&show_icons=true&theme=github_dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerisN&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerisN&layout=compact&theme=github_dark)]
